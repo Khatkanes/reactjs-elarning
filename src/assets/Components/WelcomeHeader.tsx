@@ -1,4 +1,3 @@
-import React from 'react'
 import myImageuser from '../images/Userpicture.jpg'
 import './WelcomeHeader.css'
 

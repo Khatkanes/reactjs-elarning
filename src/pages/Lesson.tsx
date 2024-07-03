@@ -1,4 +1,3 @@
-import React from 'react'
 import WelcomeHeader from '../assets/Components/WelcomeHeader';
 import { useParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';

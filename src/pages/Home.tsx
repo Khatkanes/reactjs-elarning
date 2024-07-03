@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import SearchBar from '../assets/Components/SearchBar';
 import WelcomeHeader from '../assets/Components/WelcomeHeader';
 import ShowData from '../assets/shared/GlobalApi';

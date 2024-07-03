@@ -1,4 +1,3 @@
-import React from 'react'
 //components
 import WelcomeHeader from '../assets/Components/WelcomeHeader'
 import ShowDataID from '../assets/shared/CourseApiId'
